@@ -97,6 +97,21 @@ For product information, visit www.mathworks.com.
    Done nnbilinearsampler[dataType=single,device=cpu]/check_der_x(ih=value1,iw=value3,oh=value1,ow=value1,multiple_grids=value2) in 0.036112 seconds
    Running nnbilinearsampler[dataType=single,device=cpu]/check_der_x(ih=value1,iw=value3,oh=value1,ow=value2,multiple_grids=value1)
 .... (suppressing most of the output)
+
+result = 
+
+  1x1793 TestResult array with properties:
+
+    Name
+    Passed
+    Failed
+    Incomplete
+    Duration
+    Details
+
+Totals:
+   1793 Passed, 0 Failed, 0 Incomplete.
+   124.5039 seconds testing time.
 ```
 
 The tests will take several minutes as well. Be patient.
