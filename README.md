@@ -98,3 +98,5 @@ For product information, visit www.mathworks.com.
    Running nnbilinearsampler[dataType=single,device=cpu]/check_der_x(ih=value1,iw=value3,oh=value1,ow=value2,multiple_grids=value1)
 .... (suppressing most of the output)
 ```
+
+The tests will take several minutes as well. Be patient.
